@@ -1,9 +1,9 @@
 {
-  "latest_version": "0.9.9",
-  "min_supported_version": "0.9.0",
+  "latest_version": "0.2.1",
+  "min_supported_version": "0.2.0",
   "notes": "",
   "urls": {
-    "mac": "https://cynkaudio.com",
+    "mac": "https://github.com/cynkaudio/cynk-releases/releases/tag/v0.2.1",
     "win": ""
   }
 }
