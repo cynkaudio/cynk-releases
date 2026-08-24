@@ -3,7 +3,7 @@
   "min_supported_version": "0.2.0",
   "notes": "",
   "urls": {
-    "mac": "sha256:b3c95f5a9f85e618283e0cf146eaa735f87d582674fce84f8ec2cce48c77d88b",
-    "win": "sha256:73a7549c48f457d75c9e18c9b8f7618aadd8618ad78df1921f1cc2b6a52f90f7"
+    "mac": "https://github.com/cynkaudio/cynk-releases/releases/download/v0.2.3/cynk-0.2.3.dmg",
+    "win": "https://github.com/cynkaudio/cynk-releases/releases/download/v0.2.3/cynk-0_2_3-windows.zip"
   }
 }
