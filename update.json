@@ -1,9 +1,9 @@
 {
-  "latest_version": "0.2.3",
-  "min_supported_version": "0.2.3",
+  "latest_version": "0.2.4",
+  "min_supported_version": "0.2.4",
   "notes": "",
   "urls": {
-    "mac": "https://github.com/cynkaudio/cynk-releases/releases/download/v0.2.3/cynk-0.2.3.dmg",
-    "win": "https://github.com/cynkaudio/cynk-releases/releases/download/v0.2.3/cynk-0_2_3-windows.zip"
+    "mac": "https://github.com/cynkaudio/cynk-releases/releases/download/v0.2.4/cynk-0.2.4.dmg",
+    "win": "https://github.com/cynkaudio/cynk-releases/releases/download/v0.2.4/cynk-0_2_4-windows.zip"
   }
 }
